@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Nascimento ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-nascimento-web-developer/)
 
 ![Felipe Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizfelipe&show_icons=true&theme=radical)
 
